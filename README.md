@@ -13,7 +13,6 @@
 ---
 
 ## 💻 My stacks
-<br/>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
@@ -24,7 +23,6 @@
 ---
 
 ## 📊 GitHub Stats
-<br/>
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cassiano-flores&theme=dracula&include_all_commits=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=cassiano-flores&theme=dracula&hide_border=false)<br/>
 
