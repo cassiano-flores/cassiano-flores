@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cassiano-flores&theme=dracula&include_all_commits=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=cassiano-flores&theme=dracula&hide_border=false)<br/>
 
-<br/><br/>
+<br/>
 
 >### "Intelligence is the ability to adapt to change."
 > – Stephen Hawking
