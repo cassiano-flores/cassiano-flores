@@ -2,7 +2,7 @@
 
  <!-- 🌐 [My profile](https://cassiano-flores.github.io/cassiano-flores) -->
 
-### Full-stack developer at [CWI Software](https://cwi.com.br/), computer science student at [PUCRS](https://www.pucrs.br/en/the-university/), gamer in my spare time and passionate about technology.
+### Full-stack developer, computer science student at [PUCRS](https://www.pucrs.br/en/the-university/), gamer in my spare time and passionate about technology.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-flores) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassianolfm@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassianoflm)
 
