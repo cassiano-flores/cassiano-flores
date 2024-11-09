@@ -1,21 +1,130 @@
-# <img src="reading-newspaper-drinking-coffee.gif" alt="reading-newspaper-drinking-coffee" width="100px"/> `whoami`
+## [![wakatime](https://wakatime.com/badge/user/f166c2e8-78ea-420b-9b15-ced5f09f92f7.svg)](https://wakatime.com/@f166c2e8-78ea-420b-9b15-ced5f09f92f7) <img src="images/reading-newspaper-drinking-coffee.gif" alt="reading newspaper drinking coffee" width="66px" height="50px"> `whoami`
 
- <!-- 🌐 [My profile](https://cassiano-flores.github.io/cassiano-flores) -->
+I'm just a guy who likes web development. Mainly a backend developer, a bachelor in computer science, a gamer in my spare time and passionate about technology. 😁
 
-### Backend developer at [Nelogica](https://www.nelogica.com.br/), computer science student at [PUCRS](https://www.pucrs.br/en/the-university/), gamer in my spare time and passionate about technology.
+-   🌎 I was born in the U.S. and raised in Brazil 🇺🇸🇧🇷
+-   🖥️ See my portfolio at **[https://cassiano-flores.github.io/portfolio](https://cassiano-flores.github.io/portfolio/)**
+-   ✉️ You can contact me at **[cassianolfm@gmail.com](mailto:cassianolfm@gmail.com)**
+-   🚀 I'm currently working at **[Nelogica Software Systems](https://www.nelogica.com.br/)**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-flores) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassianolfm@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassianoflm)
+<div>
+  <a href="https://www.linkedin.com/in/cassiano-flores" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:cassianolfm@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/cassianoflm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+  </a>
+</div>
 
----
+## Stacks
 
-## 💻 My stacks
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<div>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git">
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm">
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman">
+  </a>
+</div>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<div>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python">
+  </a>
+  <a href="https://www.embarcadero.com/products/delphi" target="_blank">
+    <img src="images/delphi.png" alt="Delphi" width="40" height="40">
+  </a>
+  <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C">
+  </a>
+  <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go" alt="Go">
+  </a>
+  <a href="https://www.haskell.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell">
+  </a>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano-flores&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<div>  
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET">
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React">
+  </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+  </a>
+</div>
 
----
+## My coding activity by Wakatime
 
->### "Intelligence is the ability to adapt to change."
-> – Stephen Hawking
+![](https://wakatime.com/share/@cassiano_flores/495a83b8-8af1-4f0f-8445-fa834dcba7e1.svg)
+
+<div>
+  <blockquote>
+    "Intelligence is the ability to adapt to change."
+    <br />
+    – Stephen Hawking
+  </blockquote>
+</div>
