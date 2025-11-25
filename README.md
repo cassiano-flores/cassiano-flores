@@ -5,7 +5,7 @@ I'm just a guy who likes web development. Mainly a backend developer, a bachelor
 -   🌎 I was born in the U.S. and raised in Brazil 🇺🇸🇧🇷
 -   🖥️ See my portfolio at **[https://cassiano-flores.github.io/portfolio](https://cassiano-flores.github.io/portfolio/)**
 -   ✉️ You can contact me at **[cassianolfm@gmail.com](mailto:cassianolfm@gmail.com)**
--   🚀 I'm currently working at **[Nelogica Software Systems](https://www.nelogica.com.br/)**
+-   🚀 I'm currently working at **[Banco do Estado do Rio Grande do Sul (Banrisul)](https://www.banrisul.com.br/)**
 
 <div>
   <a href="https://www.linkedin.com/in/cassiano-flores" target="_blank" rel="noreferrer">
